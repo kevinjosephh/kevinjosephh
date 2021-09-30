@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevinjosephh
+Hi, I’m Kevin
 - Web Development Enthusiast
 - Bachelor of Computer Science
 - Student at R.D. National
