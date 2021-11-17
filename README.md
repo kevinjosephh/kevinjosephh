@@ -1,5 +1,5 @@
 Hi, I’m Kevin
-- Web Development Enthusiast
+- Programming Enthusiast
 - Bachelor of Computer Science
 - Student at R.D. National
 
