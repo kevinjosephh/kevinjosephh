@@ -4,7 +4,7 @@ Hi, I’m Kevin
 - Student at R.D. National
 
 <img src="https://github-readme-stats.vercel.app/api?username=kevinjosephh&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Kevin Joseph" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjosephh&theme=algolia" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjosephh&layout=compact&theme=algolia" />
 
 <!---
 kevinjosephh/kevinjosephh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
