@@ -60,6 +60,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjosephh&layout=compact&theme=algolia&hide_langs_below=1" alt="Kevin's Top Languages" style="height: 150px"/>
 </p>
 
+<br>
+
 <hr>
 
 <br>
@@ -72,5 +74,5 @@
 <img width="4%" href="https://www.codechef.com/users/kevinjoseph" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" />
 <img width="4%" href="https://www.instagram.com/kevinjosephh/" src="https://toppng.com/uploads/preview/instagram-logo-hd-11549539053fuhtfzlgvw.png" />
 
-  
 </p>
+<br>
